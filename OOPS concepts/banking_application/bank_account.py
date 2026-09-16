@@ -86,7 +86,7 @@ class BankAccount:
         Change the bank name for all accounts.
         """
 
-        if not new_name.strip():
+        if not new_name.strip(): 
             print("Bank name cannot be empty.")
             return
 

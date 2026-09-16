@@ -1,3 +1,23 @@
+# Problem Statement
+
+Create a simplified Banking Application using Python Object-Oriented Programming (OOP).
+
+The application should model a bank account using a BankAccount class. Each bank account should maintain information about the account holder, account number, and account balance.
+
+The application should allow users to perform basic banking operations such as depositing money, withdrawing money, checking the account balance, and displaying account details.
+
+The application should also demonstrate the use of class variables and class methods by maintaining a common bank name for all accounts and providing a way to change the bank name for all accounts.
+
+Functional Requirements
+
+Create a class named:BankAccount
+
+The class should contain the following attributes:
+
+account_holder_name – Name of the account holder
+account_number – Unique account number
+balance – Current account balance
+
 # Banking Management System
 
 A simple Banking Management System built using Python Object-Oriented Programming (OOP).
